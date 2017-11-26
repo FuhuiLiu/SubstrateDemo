@@ -1,2 +1,3 @@
 # SubstrateDemo
-use substrate
+
+简单使用示例。
